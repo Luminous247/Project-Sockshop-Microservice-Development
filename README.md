@@ -3,9 +3,10 @@
 ## A microservices-based architecture application is deployed on Kubernetes and there’s a need to create a clear IaaC (Infrastructure as Code) deployment to be able to deploy the services in a fast manner.
 
 
-Altschool_-Third_Semester_PROJECT
-NAME : ABUBAKAR AYOMIDE MICHEAL
-Student ID: ALT/SOE/023/2451
+#DETAILS#
+## Altschool_-Third_Semester_PROJECT
+## NAME : ABUBAKAR AYOMIDE MICHEAL
+## Student ID: ALT/SOE/023/2451
 # Setup Details:
 
 - Provision the Socks Shop example microservice application -
