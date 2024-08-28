@@ -101,7 +101,7 @@ kubectl apply  -f sockshop-deployment.yaml
 ```
 
 > Connect kubectl to cluster
-> ![terraform](.img/get-creadentials.jpg)
+> ![terraform](.img/get-creadentials_ayomide.jpg)
 
 ---
 
