@@ -105,7 +105,7 @@ kubectl apply  -f sockshop-deployment.yaml
 
 ---
 
-![terraform](.img/get-nodes.jpg)
+![terraform](.img/get-nodes_ayomide.jpg)
 ![terraform](.img/get-pods.jpg)
 
 > Port-forwarding the frontend service
