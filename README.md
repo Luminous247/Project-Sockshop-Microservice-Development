@@ -114,7 +114,7 @@ kubectl apply  -f sockshop-deployment.yaml
 ---
 
 > Configured a loadbalancer service for the frontend before i using an ingress-nginx controller to route traffic to my application
-> ![terraform](.img/get-svc-loadbalancer.jpg) > ![terraform](.img/loadbalancer-live-preview.jpg)
+> ![terraform](.img/get-svc-loadbalancer ayomide.jpg) > ![terraform](.img/loadbalancer-live-preview.jpg)
 
 - i changed the service type back to ClusterIp
 
